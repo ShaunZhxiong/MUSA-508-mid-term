@@ -1,0 +1,19 @@
+# Internal features
+designCODE
+EffectiveYear & builtYear ?
+qualityCode
+bsmtType
+carStorageSF,carStroageTypeDscr
+nbrBedRoom % nbrRoomsNobath & mainfloorSF & TotalFinishedSF
+nbrThreeQtrBaths & nbrFullBaths & nbrHalfBaths
+AcDscr
+HeatingDscr
+
+
+
+#External features
+boulder dataplatform
+
+
+#Spatial features
+block group
