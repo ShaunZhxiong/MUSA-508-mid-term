@@ -16,6 +16,27 @@ boulder dataplatform
 occupants with green area, parks, recreational facilities, transportation,
 distance to work, and noise
 
+OSM:
+amenity
+busway: lane
+amenity : restaurant & school & university & kindergarten &bus station & parking & clinic &hosptial & arts_center & cinema
+nightclub & police&childcare & marketplace
+
+highway	primary
+
+building: commercial, retail, supermarket & 	sports_hall &	stadium
+leisure	common
+leisure	fitness_centre
+leisure	garden
+leisure	nature_reserve
+leisure	park
+leisure	playground
+
+water	lake
+
+office	company
+
+Railway
 
 #Spatial features
 block group
